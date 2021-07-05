@@ -1,0 +1,10 @@
+type_something = input('Escreva algo: ')
+
+print('O tipo primitivo desse valor é \033[1;36m{}\033[m!'.format(type(type_something)))
+print('É um número?', type_something.isnumeric())
+print('É alfabético?', type_something.isalpha())
+print('Só tem espaço?', type_something.isspace())
+print('É alfanumérico?', type_something.isalnum())
+print('Está escrito só com letras maiúsculas?', type_something.isupper())
+print('Está escrito só com letras minúsculas?', type_something.islower())
+print('Está capitalizado?', type_something.istitle())
