@@ -1,5 +1,31 @@
-MUNDO 1
+←------------------------<<< MUNDO 1 >>>------------------------→
 
-MUNDO 2
+ex001: deixando tudo pronto
+ex002: respondendo ao usuário
+ex003 - ex004: tipos primitivos e saída de dados
+ex005 - ex015: operadores aritméticos
+ex016 - ex021: utilizando módulos
+ex022 - ex027: manipulando texto
+ex028 - ex035: condições (parte 1)
+  
+  
+  
+←------------------------<<< MUNDO 2 >>>------------------------→
 
-MUNDO 3
+ex036 - ex045: condições aninhadas
+ex046 - ex056: estrutura de repetições "for"
+ex057 - ex065: estrutura de repetição "while"
+ex066 - ex071: interrompendo repetições "while"
+
+
+
+←------------------------<<< MUNDO 3 >>>------------------------→
+
+ex072 - ex077: tuplas
+ex078 - ex083: listas (parte 1)
+ex084 - ex089: listas (parte 2)
+ex090 - ex095: dicionários
+ex096 - ex100: funções (parte 1)
+ex101 - ex106: funções (parte 2)
+ex107 - ex112: módulos e pacotes
+ex113 - ex115c: tratamento de erros e excessões
