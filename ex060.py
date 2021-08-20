@@ -1,4 +1,4 @@
-factorial_number = int(input('Digiteum número para calcular seu fatorial: '))
+factorial_number = int(input('Digite um número para calcular seu fatorial: '))
 counter = factorial_number
 factor = 1
 
